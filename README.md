@@ -31,6 +31,10 @@ Change directory to the directory holding the ansible yml files.
 
 $ ansible-playbook site.yml
 
+For a more verbose output use -vvv
+
+$ ansible-playbook -vvv site.yml 
+
 Of course you might wanna do own configs within the files.
 
 Like it? -> Enjoy it ! -> Star. 
